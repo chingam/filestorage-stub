@@ -1,0 +1,57 @@
+{
+	"BookInFlag": false,
+	"ConsignmentNumber": "",
+	"ConsignmentReference1": "EX9999",
+	"ConsignmentReference2": "test",
+	"Contents": [
+		{
+			"ContentDescription": "CartonKG",
+			"ContentDescriptionID": 1,
+			"ContentDimension1": "10",
+			"ContentDimension2": "10",
+			"ContentDimension3": "10",
+			"ContentQuantity": 1,
+			"ContentTotalWeight": 1
+		},
+		{
+			"ContentDescription": "CartonKG",
+			"ContentDescriptionID": 1,
+			"ContentDimension1": "10",
+			"ContentDimension2": "10",
+			"ContentDimension3": "10",
+			"ContentQuantity": 1,
+			"ContentTotalWeight": 1
+		},
+		{
+			"ContentDescription": "CartonKG",
+			"ContentDescriptionID": 1,
+			"ContentDimension1": "10",
+			"ContentDimension2": "10",
+			"ContentDimension3": "10",
+			"ContentQuantity": 1,
+			"ContentTotalWeight": 1
+		}
+	],
+	"DXAccountNumber": "93009999",
+	"DeliveryAccountNumber": "",
+	"DeliveryAddress1": "Metafour UK Ltd.",
+	"DeliveryAddress2": "2 Berghem Mews",
+	"DeliveryAddress3": "Blythe Road",
+	"DeliveryAddress4": "London",
+	"DeliveryAddress5": "test",
+	"DeliveryContact": "Mazhar",
+	"DeliveryEmail": "",
+	"DeliveryName": "Mazhar",
+	"DeliveryPhoneNumber": "12365479",
+	"DeliveryPostcode": "W14 0HN",
+	"InsuranceValue": 0,
+	"LabelAccountName": "test",
+	"ManifestDate": "09/03/2018 12:26:47",
+	"OrigServiceCentre": "99",
+	"PrintingUser": "test",
+	"PrivateAddress": "test",
+	"ServiceCode": "ON",
+	"SpecialInstruction1": "test",
+	"SpecialInstruction2": "test",
+	"SpecialInstruction3": "test"
+}

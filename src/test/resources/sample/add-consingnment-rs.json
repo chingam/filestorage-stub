@@ -1,0 +1,17 @@
+{
+	"Status": 0,
+	"StatusMessage": "Success",
+	"ConsignmentNumber": "L2857433",
+	"DeliveryServiceCentre": "79",
+	"HubCode": null,
+	"ItemCount": 1,
+	"RoutingStream": "F",
+	"ServiceCode": "ON",
+	"ServiceDescription": "Overnight",
+	"TrackingNumbers": [
+		{
+			"CheckDigit": null,
+			"TrackingNumber": "L28574330001"
+		}
+	]
+}

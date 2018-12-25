@@ -1,0 +1,12 @@
+{
+	"Status": 4,
+	"StatusMessage": "Invalid SessionKey",
+	"ConsignmentNumber": null,
+	"DeliveryServiceCentre": null,
+	"HubCode": null,
+	"ItemCount": 0,
+	"RoutingStream": null,
+	"ServiceCode": null,
+	"ServiceDescription": null,
+	"TrackingNumbers": null
+}
