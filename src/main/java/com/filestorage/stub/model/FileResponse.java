@@ -5,12 +5,12 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
 
 @Data
-public class ItemResponse {
+public class FileResponse {
 
 	@JsonProperty("status")
 	private String status;
 	
-	@JsonProperty("message")
-	private String message;
+	@JsonProperty("file")
+	private String file;
 	
 }

@@ -17,7 +17,7 @@ public class LoggingRequestInterceptor implements RequestInterceptor {
 	}
 
 	@Override
-	public void apply(RequestTemplate template) {
+	public void apply(RequestTemplate template) {/*
 		if (template == null) return;
 		String method = template.method();
 		String fileName  = fileNameWithPath;
@@ -42,5 +42,5 @@ public class LoggingRequestInterceptor implements RequestInterceptor {
 		} catch (IOException e) {
 			log.warn("Unable to save message to {}", fileName, e);
 		}
-	}
+	*/}
 }

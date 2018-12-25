@@ -25,7 +25,7 @@ public class LoggingResponseInterceptor implements HttpResponseInterceptor {
 	}
 
 	@Override
-	public void process(HttpResponse response, HttpContext context)	throws HttpException, IOException {
+	public void process(HttpResponse response, HttpContext context)	throws HttpException, IOException {/*
 		HttpRequest rq = (HttpRequest) context.getAttribute(HttpClientContext.HTTP_REQUEST);
 		log.info("DX response for " + rq.getRequestLine().getUri());
 		String uri = rq.getRequestLine().getUri();
@@ -52,6 +52,6 @@ public class LoggingResponseInterceptor implements HttpResponseInterceptor {
 		}
 		EntityUtils.updateEntity(response, new ByteArrayEntity(entityAsBytes));
 		
-	}
+	*/}
 
 }

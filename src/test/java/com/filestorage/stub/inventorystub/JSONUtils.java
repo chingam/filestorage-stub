@@ -4,10 +4,6 @@ import javax.script.ScriptEngine;
 import javax.script.ScriptEngineManager;
 import javax.script.ScriptException;
 
-/**
- * @author Naim Murad
- * @since Jan 3, 2018
- */
 public class JSONUtils {
 	public static String prettyPrintJSON(String json) {
 
