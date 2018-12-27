@@ -1,4 +1,4 @@
-package com.filestorage.stub.inventorystub;
+package com.filestorage.stub;
 
 import javax.script.ScriptEngine;
 import javax.script.ScriptEngineManager;
